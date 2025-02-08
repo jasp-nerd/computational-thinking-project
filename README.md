@@ -2,6 +2,8 @@
 
 iTrade is a Python-based command-line tool designed to help novice traders make informed decisions in the stock market. The application analyzes a database of approximately 500 stocks and provides recommendations based on user preferences, including performance metrics, industry sectors, company age, and ESG (Environmental, Social, and Governance) scores.
 
+![Flowchart](./images/flowchart.png)
+
 ## Features
 
 - **Performance-based Filtering**: Get the top performing stocks based on your specified criteria
@@ -17,6 +19,8 @@ iTrade is a Python-based command-line tool designed to help novice traders make 
 - **ESG Scoring**: Consider environmental, social, and governance factors with customizable minimum scores (0-10)
 - **Smart Defaults**: Automatic adjustment of criteria if initial filters are too strict
 - **Clear Data Presentation**: Results displayed in an easy-to-read tabular format
+
+![Pseudocode](./images/pseudocode.png)
 
 ## Requirements
 
